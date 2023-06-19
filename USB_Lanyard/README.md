@@ -4,7 +4,7 @@ USB Lanyard
 ## Summary 
 Use a USB cord as a lanyard. Works with USB-A and USB-C.
 
-| ![1](github.com/T-McBride/3DPrint/blob/main/USB_Lanyard/images/1.jpg) | ![2](.https://github.com/T-McBride/3DPrint/blob/main/USB_Lanyard/images/2.jpg) | 
+| ![1](https://github.com/T-McBride/3DPrint/blob/main/USB_Lanyard/images/1.jpg) | ![2](https://github.com/T-McBride/3DPrint/blob/main/USB_Lanyard/images/2.jpg) | 
 | --- | --- |
 ## Print Execution
 Print in TPU of your choice
